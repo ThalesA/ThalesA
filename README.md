@@ -1,4 +1,4 @@
-## Oiii eu sou o Thales Assis, programador apaixonado por tecnologia!
+## Oiii eu sou o Thales Assis!
 <div align="center">
   <a href="https://github.com/ThalesA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
